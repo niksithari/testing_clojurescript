@@ -1,0 +1,263 @@
+[0mCompiling "main.js" from ["src"]...[0m
+[32mSuccessfully compiled "main.js" in 0.723 seconds.[0m
+notifying browser that file changed:  out/goog/deps.js
+notifying browser that file changed:  out/cljs_deps.js
+notifying browser that file changed:  out\js_SLASH_console.js
+[0mCompiling "main.js" from ["src"]...[0m
+[32mSuccessfully compiled "main.js" in 0.489 seconds.[0m
+notifying browser that file changed:  out/cljs_deps.js
+notifying browser that file changed:  out\hello_seymore\core.js
+[0mCompiling "main.js" from ["src"]...[0m
+[32mSuccessfully compiled "main.js" in 1.855 seconds.[0m
+notifying browser that file changed:  out/goog/deps.js
+notifying browser that file changed:  out/cljs_deps.js
+notifying browser that file changed:  out\hello_seymore\core.js
+[0mCompiling "main.js" from ["src"]...[0m
+[32mSuccessfully compiled "main.js" in 0.524 seconds.[0m
+notifying browser that file changed:  out/goog/deps.js
+notifying browser that file changed:  out/cljs_deps.js
+notifying browser that file changed:  out\hello_seymore\core.js
+[0mCompiling "main.js" from ["src"]...[0m
+[32mSuccessfully compiled "main.js" in 0.578 seconds.[0m
+notifying browser that file changed:  out/cljs_deps.js
+notifying browser that file changed:  out\hello_seymore\core.js
+[0mCompiling "main.js" from ["src"]...[0m
+[32mSuccessfully compiled "main.js" in 0.863 seconds.[0m
+notifying browser that file changed:  out/goog/deps.js
+notifying browser that file changed:  out/cljs_deps.js
+notifying browser that file changed:  out\hello_seymore\core.js
+[0mCompiling "main.js" from ["src"]...[0m
+[32mSuccessfully compiled "main.js" in 2.173 seconds.[0m
+notifying browser that file changed:  out\hello_seymore\core.js
+[0mCompiling "main.js" from ["src"]...[0m
+[32mSuccessfully compiled "main.js" in 0.533 seconds.[0m
+notifying browser that file changed:  out\hello_seymore\core.js
+[0mCompiling "main.js" from ["src"]...[0m
+[32mSuccessfully compiled "main.js" in 7.466 seconds.[0m
+notifying browser that file changed:  out\hello_seymore\core.js
+[0mCompiling "main.js" from ["src"]...[0m
+[32mSuccessfully compiled "main.js" in 0.972 seconds.[0m
+notifying browser that file changed:  out\hello_seymore\core.js
+[0mCompiling "main.js" from ["src"]...[0m
+[32mSuccessfully compiled "main.js" in 0.712 seconds.[0m
+notifying browser that file changed:  out\hello_seymore\core.js
+[0mCompiling "main.js" from ["src"]...[0m
+[32mSuccessfully compiled "main.js" in 0.702 seconds.[0m
+notifying browser that file changed:  out\hello_seymore\core.js
+[0mCompiling "main.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/hello_seymore/core.cljs   line:9  column:5  ----[0m
+
+  [1mUse of undeclared Var hello-seymore.core/jkgh[0m
+
+  [36m 6[0m  [36m(defn like-seymore [data][0m
+  [36m 7[0m  [36m  (sab/html [:div[0m
+  [36m 8[0m  [36m             [:h1 "Seymore's quantified popularity: " (:likes @data)][0m
+  [33m 9[0m  [1m			 jkgh[0m
+  [0m  [0m  [33m    ^--- Use of undeclared Var hello-seymore.core/jkgh[0m
+  [36m10[0m  [36m             [:div [:a {:href "#"[0m
+  [36m11[0m  [36m                        :onClick #(swap! data update-in [:likes] inc)}[0m
+  [36m12[0m  [36m                    "Thumbs up"]]]))[0m
+  [36m13[0m  [36m[0m
+  [36m14[0m  [36m(defn render! [][0m
+
+[36m----  Compiler Warning : Please see src/hello_seymore/core.cljs  ----[0m
+[32mSuccessfully compiled "main.js" in 1.103 seconds.[0m
+notifying browser that file changed:  out\hello_seymore\core.js
+[0mCompiling "main.js" from ["src"]...[0m
+[32mSuccessfully compiled "main.js" in 0.552 seconds.[0m
+notifying browser that file changed:  out\hello_seymore\core.js
+[0mCompiling "main.js" from ["src"]...[0m
+[32mSuccessfully compiled "main.js" in 0.547 seconds.[0m
+notifying browser that file changed:  out\hello_seymore\core.js
+[0mCompiling "main.js" from ["src"]...[0m
+[32mSuccessfully compiled "main.js" in 0.687 seconds.[0m
+notifying browser that file changed:  out\hello_seymore\core.js
+[0mCompiling "main.js" from ["src"]...[0m
+[32mSuccessfully compiled "main.js" in 0.504 seconds.[0m
+notifying browser that file changed:  out\hello_seymore\core.js
+[0mCompiling "main.js" from ["src"]...[0m
+[32mSuccessfully compiled "main.js" in 1.273 seconds.[0m
+notifying browser that file changed:  out\hello_seymore\core.js
+[0mCompiling "main.js" from ["src"]...[0m
+[32mSuccessfully compiled "main.js" in 0.548 seconds.[0m
+notifying browser that file changed:  out\hello_seymore\core.js
+[0mCompiling "main.js" from ["src"]...[0m
+[32mSuccessfully compiled "main.js" in 0.488 seconds.[0m
+notifying browser that file changed:  out\hello_seymore\core.js
+[0mCompiling "main.js" from ["src"]...[0m
+[32mSuccessfully compiled "main.js" in 0.721 seconds.[0m
+notifying browser that file changed:  out\hello_seymore\core.js
+[0mCompiling "main.js" from ["src"]...[0m
+[32mSuccessfully compiled "main.js" in 0.539 seconds.[0m
+notifying browser that file changed:  out\hello_seymore\core.js
+[0mCompiling "main.js" from ["src"]...[0m
+[32mSuccessfully compiled "main.js" in 0.637 seconds.[0m
+notifying browser that file changed:  out\hello_seymore\core.js
+[0mCompiling "main.js" from ["src"]...[0m
+[32mSuccessfully compiled "main.js" in 0.499 seconds.[0m
+notifying browser that file changed:  out\hello_seymore\core.js
+[0mCompiling "main.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/hello_seymore/core.cljs   line:9  column:6  ----[0m
+
+  [1mUse of undeclared Var hello-seymore.core/shape[0m
+
+  [36m 6[0m  [36m(defn like-seymore [data][0m
+  [36m 7[0m  [36m  (sab/html [:div[0m
+  [36m 8[0m  [36m             [:h1 "Seymore's quantified popularity: " (:likes @data)][0m
+  [33m 9[0m  [1m			 (shape [[1 2] [3 4]])[0m
+  [0m  [0m  [33m     ^--- Use of undeclared Var hello-seymore.core/shape[0m
+  [36m10[0m  [36m             [:div [:a {:href "#"[0m
+  [36m11[0m  [36m                        :onClick #(swap! data update-in [:likes] inc)}[0m
+  [36m12[0m  [36m                    "Thumbs up"]]]))[0m
+  [36m13[0m  [36m[0m
+  [36m14[0m  [36m(defn render! [][0m
+
+[36m----  Compiler Warning : Please see src/hello_seymore/core.cljs  ----[0m
+[32mSuccessfully compiled "main.js" in 0.587 seconds.[0m
+notifying browser that file changed:  out\hello_seymore\core.js
+[0mCompiling "main.js" from ["src"]...[0m
+[32mSuccessfully compiled "main.js" in 0.445 seconds.[0m
+notifying browser that file changed:  out\hello_seymore\core.js
+[0mCompiling "main.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/hello_seymore/core.cljs   line:9  column:6  ----[0m
+
+  [1mUse of undeclared Var hello-seymore.core/ecount[0m
+
+  [36m 6[0m  [36m(defn like-seymore [data][0m
+  [36m 7[0m  [36m  (sab/html [:div[0m
+  [36m 8[0m  [36m             [:h1 "Seymore's quantified popularity: " (:likes @data)][0m
+  [33m 9[0m  [1m			 (ecount [[1 2 3] [4 5 6]]) [0m
+  [0m  [0m  [33m     ^--- Use of undeclared Var hello-seymore.core/ecount[0m
+  [36m10[0m  [36m             [:div [:a {:href "#"[0m
+  [36m11[0m  [36m                        :onClick #(swap! data update-in [:likes] inc)}[0m
+  [36m12[0m  [36m                    "Thumbs up"]]]))[0m
+  [36m13[0m  [36m[0m
+  [36m14[0m  [36m(defn render! [][0m
+
+[36m----  Compiler Warning : Please see src/hello_seymore/core.cljs  ----[0m
+[32mSuccessfully compiled "main.js" in 0.55 seconds.[0m
+notifying browser that file changed:  out\hello_seymore\core.js
+[0mCompiling "main.js" from ["src"]...[0m
+[32mSuccessfully compiled "main.js" in 0.462 seconds.[0m
+notifying browser that file changed:  out\hello_seymore\core.js
+[0mCompiling "main.js" from ["src"]...[0m
+[32mSuccessfully compiled "main.js" in 0.434 seconds.[0m
+notifying browser that file changed:  out\hello_seymore\core.js
+[0mCompiling "main.js" from ["src"]...[0m
+[32mSuccessfully compiled "main.js" in 0.462 seconds.[0m
+notifying browser that file changed:  out\hello_seymore\core.js
+[0mCompiling "main.js" from ["src"]...[0m
+[32mSuccessfully compiled "main.js" in 0.515 seconds.[0m
+notifying browser that file changed:  out\hello_seymore\core.js
+[0mCompiling "main.js" from ["src"]...[0m
+[32mSuccessfully compiled "main.js" in 0.43 seconds.[0m
+notifying browser that file changed:  out\hello_seymore\core.js
+[0mCompiling "main.js" from ["src"]...[0m
+[32mSuccessfully compiled "main.js" in 0.46 seconds.[0m
+notifying browser that file changed:  out\hello_seymore\core.js
+[0mCompiling "main.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/hello_seymore/core.cljs   line:3  column:28  ----[0m
+
+  [1mUse of undeclared Var hello-seymore.core/mat[0m
+
+  [36m1[0m  [36m(ns hello-seymore.core[0m
+  [36m2[0m  [36m  (:require [sablono.core :as sab]))[0m
+  [33m3[0m  [1m(:require [core.matrix :as mat]))[0m
+  [0m [0m  [33m                           ^--- Use of undeclared Var hello-seymore.core/mat[0m
+  [36m4[0m  [36m(def app-state (atom { :likes 0 }))[0m
+  [36m5[0m  [36m[0m
+  [36m6[0m  [36m(defn like-seymore [data][0m
+  [36m7[0m  [36m  (sab/html [:div[0m
+  [36m8[0m  [36m             [:h1 "Seymore's quantified popularity: " (:likes @data)][0m
+
+[36m----  Compiler Warning : Please see src/hello_seymore/core.cljs  ----[0m
+[31mFailed to compile "main.js" in 0.305 seconds.[0m
+[36m----  Could not Read  src/hello_seymore/core.cljs   line:3 ----[0m
+
+  [1mC:\Users\darthmaul\Desktop\hello_seymore\src\hello_seymore\core.cljs [line 3, col 34] Unmatched delimiter ).[0m
+
+  [36m1[0m  [36m(ns hello-seymore.core[0m
+  [36m2[0m  [36m  (:require [sablono.core :as sab]))[0m
+  [33m3[0m  [1m(:require [core.matrix :as mat]))[0m
+  [0m [0m  [33mC:\Users\darthmaul\Desktop\hello_seymore\src\hello_seymore\core.cljs [line 3, col 34] Unmatched delimiter ).[0m
+  [36m4[0m  [36m(def app-state (atom { :likes 0 }))[0m
+  [36m5[0m  [36m[0m
+  [36m6[0m  [36m(defn like-seymore [data][0m
+
+[36m----  Reader Error : Please see src/hello_seymore/core.cljs  ----[0m
+[0mCompiling "main.js" from ["src"]...[0m
+[32mSuccessfully compiled "main.js" in 0.476 seconds.[0m
+notifying browser that file changed:  out\hello_seymore\core.js
+[0mCompiling "main.js" from ["src"]...[0m
+[31mFailed to compile "main.js" in 0.523 seconds.[0m
+[36m----  Could not Analyze  src/hello_seymore/core.cljs  ----[0m
+
+  [1mNo such namespace: quil.core, could not locate quil/core.cljs, quil/core.cljc, or JavaScript source providing "quil.core" [0m
+
+[36m----  Analysis Error : Please see src/hello_seymore/core.cljs  ----[0m
+[0mCompiling "main.js" from ["src"]...[0m
+[32mSuccessfully compiled "main.js" in 0.604 seconds.[0m
+notifying browser that file changed:  out/goog/deps.js
+notifying browser that file changed:  out/cljs_deps.js
+notifying browser that file changed:  out\hello_seymore\core.js
+[0mCompiling "main.js" from ["src"]...[0m
+[31mFailed to compile "main.js" in 0.301 seconds.[0m
+[36m----  Could not Read  src/hello_seymore/core.cljs   line:10 ----[0m
+
+  [1mC:\Users\darthmaul\Desktop\hello_seymore\src\hello_seymore\core.cljs [line 10, col 49] Unmatched delimiter ).[0m
+
+  [36m 8[0m  [36m  (.render js/ReactDOM[0m
+  [36m 9[0m  [36m           (like-seymore app-state)[0m
+  [33m10[0m  [1m           (.getElementById js/document "app")))[0m
+  [0m  [0m  [33m           C:\Users\darthmaul\Desktop\hello_seymore\src\hello_seymore\core.cljs [line 10, col 49] Unmatched delimiter ).[0m
+  [36m11[0m  [36m[0m
+  [36m12[0m  [36m(add-watch app-state :on-change (fn [_ _ _ _] (render!)))[0m
+
+[36m----  Reader Error : Please see src/hello_seymore/core.cljs  ----[0m
+[0mCompiling "main.js" from ["src"]...[0m
+[32mSuccessfully compiled "main.js" in 0.519 seconds.[0m
+notifying browser that file changed:  out/goog/deps.js
+notifying browser that file changed:  out/cljs_deps.js
+notifying browser that file changed:  out\hello_seymore\core.js
+[0mCompiling "main.js" from ["src"]...[0m
+[32mSuccessfully compiled "main.js" in 0.5 seconds.[0m
+notifying browser that file changed:  out\hello_seymore\core.js
+[0mCompiling "main.js" from ["src"]...[0m
+[32mSuccessfully compiled "main.js" in 0.506 seconds.[0m
+notifying browser that file changed:  out/goog/deps.js
+notifying browser that file changed:  out/cljs_deps.js
+notifying browser that file changed:  out\hello_seymore\core.js
+[0mCompiling "main.js" from ["src"]...[0m
+[32mSuccessfully compiled "main.js" in 0.5 seconds.[0m
+notifying browser that file changed:  out\hello_seymore\core.js
+[0mCompiling "main.js" from ["src"]...[0m
+[32mSuccessfully compiled "main.js" in 0.529 seconds.[0m
+notifying browser that file changed:  out\hello_seymore\core.js
+[0mCompiling "main.js" from ["src"]...[0m
+[36m----  Compiler Warning on   src/hello_seymore/core.cljs   line:9  column:4  ----[0m
+
+  [1mUse of undeclared Var hello-seymore.core/alert[0m
+
+  [36m 6[0m  [36m(defn like-seymore [data][0m
+  [36m 7[0m  [36m  (sab/html [:div[0m
+  [36m 8[0m  [36m             [:h1 "Seymore's quantified popularity: " (:likes @data)][0m
+  [33m 9[0m  [1m			alert("Hello! I am an alert box!!");[0m
+  [0m  [0m  [33m   ^--- Use of undeclared Var hello-seymore.core/alert[0m
+  [36m10[0m  [36m             [:div [:a {:href "#"[0m
+  [36m11[0m  [36m                        :onClick #(swap! data update-in [:likes] inc)}[0m
+  [36m12[0m  [36m                    "Thumbs up"]]]))[0m
+
+[36m----  Compiler Warning : Please see src/hello_seymore/core.cljs  ----[0m
+[32mSuccessfully compiled "main.js" in 0.602 seconds.[0m
+notifying browser that file changed:  out/goog/deps.js
+notifying browser that file changed:  out/cljs_deps.js
+notifying browser that file changed:  out\hello_seymore\core.js
+[0mCompiling "main.js" from ["src"]...[0m
+[32mSuccessfully compiled "main.js" in 0.471 seconds.[0m
+notifying browser that file changed:  out\hello_seymore\core.js
+[0mCompiling "main.js" from ["src"]...[0m
+[32mSuccessfully compiled "main.js" in 0.532 seconds.[0m
+notifying browser that file changed:  out\hello_seymore\core.js
+[0mCompiling "main.js" from ["src"]...[0m
+[32mSuccessfully compiled "main.js" in 0.559 seconds.[0m
+notifying browser that file changed:  out\hello_seymore\core.js
